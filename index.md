@@ -12,3 +12,5 @@ The plan is to draw together conjectures and thoughts that are not quite substan
 3. Activation functions as noise suppression
 
 $$a^2 + b^2 = c^2$$ 
+$a^2 + b^2 = c^2$
+\\(a^2 + b^2 = c^2\\)
