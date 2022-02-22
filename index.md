@@ -1,7 +1,7 @@
 
 
 # Overview
-This is a brief expansion of the ideas started in 
+This is a brief expansion of the ideas started in [think global act local](https://arxiv.org/abs/2002.04687)
 
 The plan is to draw together conjectures and thoughts that are not quite substantial enough for a paper, but do suggest a constructive way to think about Deep Learning.
 
