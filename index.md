@@ -1,3 +1,7 @@
+---
+usemathjax: true
+---
+
 # Overview
 This is a brief expansion of the ideas started in 
 
